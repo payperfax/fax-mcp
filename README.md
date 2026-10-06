@@ -21,6 +21,17 @@ Remote server, Streamable HTTP, no authentication.
 
 Tell the assistant which country you are in, so the price shows in your currency. The preview, the payment page and the emails can be in English, Spanish, German, French, Japanese or Korean.
 
+## Add it to Gemini CLI
+
+Install the extension from this repository:
+
+```sh
+gemini extensions install https://github.com/payperfax/fax-mcp
+```
+
+The extension connects to the hosted PayPerFax MCP server. No account or API key is required.
+In Gemini CLI, use `/mcp` to check the connection and see the three tools.
+
 ## Tools
 
 | Tool                     | What it does                                                                                                                                         |
