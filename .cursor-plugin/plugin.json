@@ -1,0 +1,14 @@
+{
+  "name": "payperfax",
+  "version": "1.0.0",
+  "description": "Prepare and track faxes from your AI assistant. Pay per fax, with no account, API key or subscription. Review and pay in your browser before sending.",
+  "author": {
+    "name": "PayPerFax",
+    "email": "hi@payperfax.com",
+    "url": "https://payperfax.com"
+  },
+  "homepage": "https://payperfax.com/fax-mcp/",
+  "repository": "https://github.com/payperfax/fax-mcp",
+  "logo": "openai-plugin/assets/logo.png",
+  "keywords": ["fax", "mcp", "pay-per-fax", "documents", "productivity"]
+}
