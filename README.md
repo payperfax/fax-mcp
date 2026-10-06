@@ -1,7 +1,7 @@
 # PayPerFax MCP server
 
 [![PayPerFax MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.payperfax/fax/badges/score.svg)](https://glama.ai/mcp/connectors/com.payperfax/fax)
-[![PayPerFax on Smithery](https://smithery.ai/badge/adam-cr0c/payperfax)](https://smithery.ai/servers/adam-cr0c/payperfax)
+[![PayPerFax on Smithery](https://img.shields.io/badge/Smithery-PayPerFax-orange)](https://smithery.ai/servers/adam-cr0c/payperfax)
 
 Send a fax from your AI assistant. Pay per fax. No account, no API key, no subscription.
 
