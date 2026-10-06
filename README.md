@@ -32,6 +32,12 @@ gemini extensions install https://github.com/payperfax/fax-mcp --ref main
 The extension connects to the hosted PayPerFax MCP server. No account or API key is required.
 In Gemini CLI, use `/mcp` to check the connection and see the three tools.
 
+## Add it to Antigravity
+
+The [Antigravity plugin package](antigravity-plugin/) connects to the hosted
+PayPerFax MCP server. See its [installation instructions](antigravity-plugin/README.md)
+to install it from a local folder. Marketplace listing is pending.
+
 ## Tools
 
 | Tool                     | What it does                                                                                                                                         |
