@@ -8,7 +8,7 @@
     "email": "hi@payperfax.com",
     "url": "https://payperfax.com"
   },
-  "homepage": "https://payperfax.com/payperfax-tracker/",
+  "homepage": "https://payperfax.com/",
   "repository": "https://github.com/payperfax/fax-mcp",
   "keywords": ["fax", "fax status", "fax tracking", "delivery status"],
   "extensions": {
@@ -20,7 +20,7 @@
         "developerName": "PayPerFax",
         "category": "Productivity",
         "capabilities": ["Check fax delivery status"],
-        "websiteURL": "https://payperfax.com/payperfax-tracker/",
+        "websiteURL": "https://payperfax.com/",
         "supportURL": "https://payperfax.com/contact-us/",
         "privacyPolicyURL": "https://payperfax.com/policy/privacy/",
         "termsOfServiceURL": "https://payperfax.com/policy/terms-of-service/",
