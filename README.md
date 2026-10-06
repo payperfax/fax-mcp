@@ -56,16 +56,3 @@ Always check the number against irs.gov. A wrong number sends tax papers to a st
 ## About this repository
 
 This repository documents the hosted server. The server code is not open source. [`server.json`](server.json) is the entry in the [official MCP registry](https://registry.modelcontextprotocol.io/) as `com.payperfax/fax`.
-
-### Publish a new registry version
-
-The registry does not let you change a published version. To change the entry:
-
-1. Edit `server.json` and raise `version`.
-2. Log in with the Ed25519 key for `payperfax.com` (DNS auth; the key is kept outside this repository):
-   ```
-   mcp-publisher login dns --domain payperfax.com \
-     --private-key "$(openssl pkey -in mcp-registry-key.pem -noout -text | grep -A3 'priv:' | tail -n +2 | tr -d ' :\n')"
-   ```
-3. Run `mcp-publisher publish`.
-4. Commit and push.
