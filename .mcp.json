@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "payperfax": {
+      "url": "https://fax.payperfax.com/mcp"
+    }
+  }
+}
