@@ -56,3 +56,6 @@ Always check the number against irs.gov. A wrong number sends tax papers to a st
 ## About this repository
 
 This repository documents the hosted server. The server code is not open source. [`server.json`](server.json) is the entry in the [official MCP registry](https://registry.modelcontextprotocol.io/) as `com.payperfax/fax`.
+
+The files in this public repository are available under the [MIT License](LICENSE).
+That license does not cover the hosted server implementation, which is not included here.
