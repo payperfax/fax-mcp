@@ -26,7 +26,7 @@ Tell the assistant which country you are in, so the price shows in your currency
 Install the extension from this repository:
 
 ```sh
-gemini extensions install https://github.com/payperfax/fax-mcp
+gemini extensions install https://github.com/payperfax/fax-mcp --ref main
 ```
 
 The extension connects to the hosted PayPerFax MCP server. No account or API key is required.
