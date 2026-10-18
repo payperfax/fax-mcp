@@ -1,7 +1,7 @@
 {
   "name": "payperfax",
   "version": "1.0.0",
-  "description": "Prepare and track faxes from Gemini CLI. Fax a letter the assistant writes, or upload a PDF, signed form or scan. No account, API key or subscription. Review and pay in your browser before sending.",
+  "description": "Prepare and track faxes from Gemini CLI. Fax a letter the assistant writes, or a PDF, signed form or scan that you add in your browser. No account, API key or subscription. Review and pay in your browser before sending.",
   "mcpServers": {
     "payperfax": {
       "httpUrl": "https://fax.payperfax.com/mcp"

@@ -20,7 +20,7 @@ Remote server, Streamable HTTP, no authentication.
 2. Add a custom MCP server. Name: `PayPerFax`. URL: `https://fax.payperfax.com/mcp`.
 3. Turn the connector on in your chat.
 
-Tell the assistant which country you are in, so the price shows in your currency. The preview, the payment page and the emails can be in English, Spanish, German, French, Japanese or Korean.
+Tell the assistant which country you are in, so the price shows in your currency. The preview, the payment page and the emails can be in English, Spanish, German, French, Italian, Japanese or Korean.
 
 ## Add it to Gemini CLI
 
@@ -44,7 +44,7 @@ to install it from a local folder. Marketplace listing is pending.
 | Tool                     | What it does                                                                                                                                         |
 |--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `create_fax`             | Prepares a fax and returns a link. The assistant gives the fax number, your email address, and either a letter it wrote (Markdown) or a notice that a file is still needed |
-| `get_fax_status`         | Reads the status of a fax: queued, sending, delivered or failed                                                                                      |
+| `get_fax_status`         | Reads the status of a fax: pending (with a `stage` that says where it is), delivered, failed or expired                                                                                      |
 | `list_supported_formats` | Lists the input types, the size limits and the languages                                                                                             |
 
 The assistant never pays. A person pays, in the browser, every time.
