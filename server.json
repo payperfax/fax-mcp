@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.payperfax/fax",
   "title": "PayPerFax",
-  "description": "Send a fax from AI. Pay per fax. No registration or subscription. Pay only for successful faxes.",
-  "version": "1.0.2",
+  "description": "Your AI assistant prepares the fax. You check it and pay in your browser. Pay per fax. No account.",
+  "version": "1.0.3",
   "websiteUrl": "https://payperfax.com/fax-mcp/",
   "repository": {
     "url": "https://github.com/payperfax/fax-mcp",
