@@ -3,8 +3,17 @@
   "name": "com.payperfax/fax",
   "title": "PayPerFax",
   "description": "Your AI assistant prepares the fax. You check it and pay in your browser. Pay per fax. No account.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "websiteUrl": "https://payperfax.com/fax-mcp/",
+  "icons": [
+    {
+      "src": "https://fax.payperfax.com/mcp-icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
   "repository": {
     "url": "https://github.com/payperfax/fax-mcp",
     "source": "github"
