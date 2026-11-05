@@ -66,6 +66,8 @@ The assistant takes the fax number from irs.gov and shows you the source. It cal
 
 Always check the number against irs.gov. A wrong number sends tax papers to a stranger. Guide: [Fax a form to the IRS with an AI agent](https://payperfax.mintlify.app/guides/fax-the-irs).
 
+To test the whole path before a real fax, send a test page to a free [Faxbeep](https://faxbeep.com/test-fax-mcp) test number. Faxbeep only receives, and shows each test publicly for 30 days. With the [Faxbeep MCP server](https://github.com/faxbeep/faxbeep-mcp) connected, your assistant can read the result.
+
 ## Documentation
 
 - [Fax MCP](https://payperfax.com/fax-mcp/): overview, price, FAQ
